@@ -8,7 +8,7 @@ Initialize this repo into a catkin workspace. If you do not have one use the fol
 ```
 mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws/
-git clone ___ src
+git clone https://github.com/FelixKHWong/Path-Planning-Robot.git src
 rosdep install --from-paths src --ignore-src -y
 catkin build
 source devel/setup.bash

@@ -5,14 +5,14 @@ To run this project clone thsi project into your catkin workspace.
 
 ## Setup 
 Initialize this repo into a catkin workspace. If you do not have one use the following steps to initialize one:
-'''
+```
 mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws/
 git clone ___ src
 rosdep install --from-paths src --ignore-src -y
 catkin build
 source devel/setup.bash
-
+```
 
 # Running
 To map the environment

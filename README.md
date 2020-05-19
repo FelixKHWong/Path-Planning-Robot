@@ -29,5 +29,3 @@ To test the robot's movement based on preset goals
 
 To run the home-service robot
 - run ./scripts/home_service.sh
-
-![alt text](https://github.com/FelixKHWong/Path-Planning-Robo/home service moving.PNG?raw=true)

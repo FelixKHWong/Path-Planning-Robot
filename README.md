@@ -1,7 +1,7 @@
 # Path-Planning-Robot
-Used ROS packaged such as AMCL, Turtlebot and Slam to create a robot to autonomously navigate to objects and move them around
+Used ROS packaged such as AMCL, Turtlebot and Slam to create a robot to autonomously navigate to objects and move them around. Part of the Udacity Robot Software Engineer Nanodegree.
 
-To run this project clone thsi project into your catkin workspace.
+To run this project clone this project into your catkin workspace.
 
 ## Setup 
 Initialize this repo into a catkin workspace. If you do not have one use the following steps to initialize one:

@@ -13,7 +13,6 @@ rosdep install --from-paths src --ignore-src -y
 catkin build
 source devel/setup.bash
 
-'''
 
 # Running
 To map the environment
@@ -24,6 +23,9 @@ To test the navigation using Rviz navigation goals
 
 To test the markers
 - run ./scripts/add_marker.sh
+
+To test the robot's movement based on preset goals
+- run ./scripts/pick_objects.sh
 
 To run the home-service robot
 - run ./scripts/home_service.sh
